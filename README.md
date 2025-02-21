@@ -1,4 +1,3 @@
 # -Vingadores-
-# Exercício de
-fixação
+# Exercício de fixação
 
